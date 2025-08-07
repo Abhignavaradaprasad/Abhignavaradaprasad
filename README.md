@@ -1,7 +1,4 @@
-## Hi there 👋
-
-<!--
-**Abhignavaradaprasad/Abhignavaradaprasad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hello, I'm Abhigna 👋
 
 👨‍💻 Portfolio - https://avaradaprasad.wixstudio.com/portfolio
 💬 Ask me about  
@@ -13,3 +10,7 @@
   • Identity & Access Management (IAM)  
   • Python Automation for SecOps  
   • Cyber Risk Assessment & Governance  
+
+
+Lnaguages and Tools - 
+
