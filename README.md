@@ -1,6 +1,8 @@
 # Hello, I'm Abhigna 👋
 
 👨‍💻 Portfolio - https://avaradaprasad.wixstudio.com/portfolio
+
+
 💬 Ask me about  
   • Cybersecurity Operations & Threat Detection  
   • Cloud Security (AWS, Azure)  
@@ -49,6 +51,8 @@
   <img src="https://cdn.simpleicons.org/snort/FF3366" alt="Snort" width="30" height="30" />
 
   
+
+
 ##🤵🏻‍ Connect -
 
  <div style="display: flex; gap: 10px;">
