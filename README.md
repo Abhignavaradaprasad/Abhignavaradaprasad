@@ -40,11 +40,9 @@
   <img src="https://cdn.simpleicons.org/elastic/005571" alt="ELK Stack" width="30" height="30" />
   <img src="https://cdn.simpleicons.org/wireshark/1679A7" alt="Wireshark" width="30" height="30" />
   <img src="https://cdn.simpleicons.org/virustotal/394EFF" alt="VirusTotal" width="30" height="30" />
-  <img src="https://cdn.simpleicons.org/graylog/000000" alt="Graylog" width="30" height="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" title="Ansible" alt="Ansible" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" title="PowerShell" alt="PowerShell" width="40" height="40"/>
   <img src="https://cdn.simpleicons.org/okta/007DC1" alt="Okta" width="30" height="30" />
-  <img src="https://cdn.simpleicons.org/docker/2496ED" alt="Docker" width="30" height="30" />
   <img src="https://cdn.simpleicons.org/kubernetes/326CE5" alt="Kubernetes" width="30" height="30" />
   <img src="https://cdn.simpleicons.org/terraform/623CE4" alt="Terraform" width="30" height="30" />
   <img src="https://cdn.simpleicons.org/fortinet/EE3124" alt="Fortinet" width="30" height="30" />
